@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Cranleigh Activities Prototype</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -26,9 +26,13 @@
         <header id="masthead">
 	        <div class="container">
 		        <div class="row">
-			        <div class="col-md-4">
-						<img id="logo-img" src="https://parents.cranleigh.org/files/2016/04/cranleigh-logo-horiz.png" class="img-responsive" />
-			        </div>
+			        <div class="col-xs-8 col-sm-4">
+						<h1 class="sr-only"><a href="#" rel="home">Cranleigh School</a></h1>
+						<a href="#">
+							<img id="logo-img" class="img-responsive" src="https://www.cranleigh.org/wp-content/themes/cranleigh-2016/img/cranleigh-logo-horiz.png" alt="Cranleigh School logo">
+						</a>
+					</div>
+
 		        </div>
 	        </div>
 			<nav class="navbar navbar-default" role="navigation">
@@ -67,7 +71,7 @@
 								<div class="carousel-inner">
 
 									<div class="item active">
-										<img src="http://placehold.it/1200x400/cccccc/ffffff">
+										<img src="img/Multi Activities Easter 2016_27589.jpg">
 										<div class="carousel-caption">
 											<h3>Headline</h3>
 											<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="http://sevenx.de/demo/bootstrap-carousel/" target="_blank" class="label label-danger">Bootstrap 3 - Carousel Collection</a></p>
@@ -75,7 +79,7 @@
 									</div><!-- End Item -->
 
 									<div class="item">
-										<img src="http://placehold.it/1200x400/999999/cccccc">
+										<img src="img/Multi Activities Easter 2016_27578.jpg">
 										<div class="carousel-caption">
 											<h3>Headline</h3>
 											<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="http://sevenx.de/demo/bootstrap-carousel/" target="_blank" class="label label-danger">Bootstrap 3 - Carousel Collection</a></p>
@@ -83,7 +87,7 @@
 									</div><!-- End Item -->
 
 									<div class="item">
-										<img src="http://placehold.it/1200x400/dddddd/333333">
+										<img src="img/Multi Activities Easter 2016_27594.jpg">
 										<div class="carousel-caption">
 											<h3>Headline</h3>
 											<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="http://sevenx.de/demo/bootstrap-carousel/" target="_blank" class="label label-danger">Bootstrap 3 - Carousel Collection</a></p>
@@ -91,7 +95,7 @@
 									</div><!-- End Item -->
 
 									<div class="item">
-										<img src="http://placehold.it/1200x400/999999/cccccc">
+										<img src="img/Multi Activities Easter 2016_27600.jpg">
 										<div class="carousel-caption">
 											<h3>Headline</h3>
 											<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
@@ -139,8 +143,8 @@
 
 				<div class="col-md-4">
 					<div class="widget">
-						<h3>Widget Title</h3>
-						<p>Some content</p>
+						<h3>Latest Brochure</h3>
+						<p><img src="https://www.cranleighenterprises.org/files/2012/10/MA-Generic-Flier.jpg" class="img-responsive" /></p>
 					</div>
 					<div class="widget">
 						<h3>Widget Title</h3>
