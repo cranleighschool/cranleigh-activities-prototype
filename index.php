@@ -12,8 +12,8 @@
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <style>
-        </style>
+		<link rel="stylesheet" href="//cdn.cranleigh.org/cranfont/style.css" />
+		<link rel='stylesheet' id='aspect-font-css'  href='//cdn.cranleigh.org/css/AspW-Rg.css?ver=frbdev.cranleigh.org' type='text/css' media='all' />
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -171,10 +171,10 @@
 					<div class="col-sm-3">
 						<h4>Social Media</h4>
 						<ul class="list-unstyled">
-							<li><img src="http://www.cranleighdev.org/prototypes/img/facebook-grey.png" alt="facebook"> Like us on Facebook</li>
-							<li><img src="http://www.cranleighdev.org/prototypes/img/twitter-grey.png" alt="twitter"> Follow us on Twitter</li>
-							<li><img src="http://www.cranleighdev.org/prototypes/img/pinterest-grey.png" alt="pinterest"> Watch us on Pinterest</li>
-							<li><img src="http://www.cranleighdev.org/prototypes/img/vimeo-grey.png" alt="vimeo"> View us on Vimeo</li>
+							<li>Like us on Facebook</li>
+							<li>Follow us on Twitter</li>
+							<li>Watch us on Pinterest</li>
+							<li>View us on Vimeo</li>
 						</ul>
 					</div>
 					<div class="col-sm-3">
@@ -187,7 +187,7 @@
 						</ul>
 					</div>
 					<div class="col-sm-3">
-						<img class="img-responsive" src="http://www.cranleighdev.org/prototypes/img/cranleigh-logo-horiz.png" alt="Cranleigh school logo">
+						<img class="img-responsive" src="https://www.cranleigh.org/wp-content/themes/cranleigh-2016/img/cranleigh-logo-horiz.png" alt="Cranleigh school logo">
 					</div>
 				</div>
 			</div>
